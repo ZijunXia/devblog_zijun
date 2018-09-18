@@ -1,6 +1,6 @@
 ---
-title: Welcome to the Blog!
-date: "2018-07-01"
+title: Welcome to Zijun's Website!
+date: "2018-09-18"
 featuredImage: './zijun.jpg'
 ---
 
