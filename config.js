@@ -10,6 +10,6 @@ module.exports = {
     website: 'https://zijunxia.netlify.com/',
     github: 'https://github.com/ZijunXia',
     twitter: 'https://twitter.com/Chale_Zijun',
-    linkedin: 'www.linkedin.com/in/zijun-xia'
+    linkedin: 'https://www.linkedin.com/in/zijun-xia'
   }
 };
