@@ -1,7 +1,7 @@
 module.exports = {
   title: 'Zijun s Website', // Required
   author: 'Zijun Xia', // Required
-  tagline: 'Full-stack Web Developer',
+  tagline: 'Personal Website',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
